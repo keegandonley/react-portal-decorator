@@ -1,0 +1,23 @@
+{
+  "name": "react-portal-decorator",
+  "version": "0.0.1",
+  "description": "Decorator for portals!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "author": "Keegan Donley",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "@babel/preset-react": "^7.0.0"
+  }
+}

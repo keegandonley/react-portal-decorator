@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Portal target is correct 1`] = `
+<div>
+  Hello, world!
+</div>
+`;
+
+exports[`React component is rendered 1`] = `
+<div>
+  Hello, world!
+</div>
+`;

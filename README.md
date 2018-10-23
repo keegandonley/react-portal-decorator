@@ -1,6 +1,7 @@
 <div align="center">
 
 # react-portal-decorator
+[![CircleCI](https://circleci.com/gh/keegandonley/react-portal-decorator.svg?style=svg)](https://circleci.com/gh/keegandonley/react-portal-decorator)
 
 </div>
 A simple way to render a component into a portal in React

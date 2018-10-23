@@ -3,8 +3,12 @@
   "version": "0.0.1",
   "description": "Decorator for portals!",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keegandonley/react-portal-decorator"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 0",
     "build": "babel src -d lib"
   },
   "author": "Keegan Donley",
